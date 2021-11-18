@@ -1,0 +1,54 @@
+.content {
+    display: block;
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: auto;
+}
+
+.content__wrapper {
+    width: 80%;
+    max-width: 1280px;
+    min-width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+.content__main {
+    margin: auto;
+}
+
+.content__heading-text {
+    font-size: 50px;
+}
+
+.content__footer-text {
+    text-align: right;
+    color: gray;
+}
+
+.section__figure {
+    width: 65%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.section__image {
+    width: 100%;
+}
+
+.section__heading {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.section__text {
+    font-size: 21px;
+    color: gray;
+}
+
+.section__link {
+    color: aquamarine;
+    font-size: 16px;
+}
